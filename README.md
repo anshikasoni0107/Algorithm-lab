@@ -37,5 +37,6 @@
 | 13| Longest Substring Without Repeating Characters | Med | https://leetcode.com/submissions/detail/1974631226/ |
 | 14|Pow(x,n) | Med | https://leetcode.com/submissions/detail/1976634525/ |
 | 15|Sqrt(x) | Easy | https://leetcode.com/submissions/detail/1976675696/ |
-| 16|Binary Search | Easy | https://leetcode.com/submissions/detail/1976686718/ | 17| Seacrh in Rotated Sorted Array| Med | https://leetcode.com/submissions/detail/1976690380/|
+| 16|Binary Search | Easy | https://leetcode.com/submissions/detail/1976686718/|
+| 17| Seacrh in Rotated Sorted Array| Med | https://leetcode.com/submissions/detail/1976690380/|
 ---
