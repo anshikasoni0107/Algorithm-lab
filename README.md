@@ -36,4 +36,5 @@
 | 12| Add Two Numbers |Med | https://leetcode.com/submissions/detail/1904325270/ |
 | 13| Longest Substring Without Repeating Characters | Med | https://leetcode.com/submissions/detail/1974631226/ |
 | 14|Pow(x,n) | Med | https://leetcode.com/submissions/detail/1976634525/ |
+| 15|Sqrt(x) | Easy | https://leetcode.com/submissions/detail/1976675696/ |
 ---
