@@ -1,7 +1,5 @@
 # Algorithm-lab
 
-This repository contains my lab assignments and practical work related to Data Structures and Algorithms.
-
 ---
 
 ## 📁 Lab Files
@@ -38,6 +36,4 @@ This repository contains my lab assignments and practical work related to Data S
 | 12| Add Two Numbers |Med | [Code](./Strings/2_Add_Two_Numbers.py) |
 | 13| Longest Substring Without Repeating Characters | Med | [Code](./Strings/3_Longest_Substring_Without_Repeating_Characters.cpp) |
 
-## 💡 Notes
-- All labs are implemented using Python in Jupyter Notebook  
-- Focused on understanding core algorithm concepts  
+---
