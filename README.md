@@ -39,4 +39,5 @@
 | 15|Sqrt(x) | Easy | https://leetcode.com/submissions/detail/1976675696/ |
 | 16|Binary Search | Easy | https://leetcode.com/submissions/detail/1976686718/|
 | 17| Seacrh in Rotated Sorted Array| Med | https://leetcode.com/submissions/detail/1976690380/|
+| 18| Divide Two Integers| Med | https://leetcode.com/submissions/detail/1976967912/|
 ---
