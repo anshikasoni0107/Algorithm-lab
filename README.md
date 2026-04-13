@@ -40,4 +40,5 @@
 | 16|Binary Search | Easy | https://leetcode.com/submissions/detail/1976686718/|
 | 17| Seacrh in Rotated Sorted Array| Med | https://leetcode.com/submissions/detail/1976690380/|
 | 18| Divide Two Integers| Med | https://leetcode.com/submissions/detail/1976967912/|
+| 19| The Kth Factor of n| Med | https://leetcode.com/submissions/detail/1977350659/|
 ---
