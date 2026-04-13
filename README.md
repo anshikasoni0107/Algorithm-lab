@@ -15,7 +15,7 @@
 | Lab 7 | Greedy Knapsack Problem (Fractional) |23 Feb 26| [Open](./Lab_7.ipynb) |
 | Lab 8 | Minimum Cost Spanning Tree |16 March 26| [Open](./Lab_8.ipynb) |
 | Lab 9 | Shortest Path Using Dijkstra Algorithm in Python  |6 April 26| [Open](./Lab_9.ipynb) |
-
+| Lab 10 | Warshall algorithm to find reachability between all pairs of vertices in a graph.  |13 April 26| [Open](./Lab_10.ipynb) |
 ---
 
 # Leetcode
