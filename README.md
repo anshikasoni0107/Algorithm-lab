@@ -33,7 +33,7 @@
 | 9 | Happy Number | Easy | https://leetcode.com/submissions/detail/1971821634/ |
 | 10 | Count Primes | Med | https://leetcode.com/submissions/detail/1973753867/ |
 | 11| Remove Nth Node From End of List | Med | https://leetcode.com/submissions/detail/1904489150/ |
-| 12| Add Two Numbers |Med | https://leetcode.com/submissions/detail/1904325270/ |
+| 12| Add Two Numbers |Med | https://leetcode.com/submissions/detail/1978533847/ |
 | 13| Longest Substring Without Repeating Characters | Med | https://leetcode.com/submissions/detail/1974631226/ |
 | 14|Pow(x,n) | Med | https://leetcode.com/submissions/detail/1976634525/ |
 | 15|Sqrt(x) | Easy | https://leetcode.com/submissions/detail/1976675696/ |
@@ -44,4 +44,5 @@
 | 20| FactorialTrailing Zeroes | Med | https://leetcode.com/submissions/detail/1977375285/|
 | 21| Subsets | Med | http://leetcode.com/submissions/detail/1978473349/ |
 | 22| Subsets II | Med | https://leetcode.com/submissions/detail/1978493041/ |
+| 23| Permutations | Med | https://leetcode.com/submissions/detail/1978493041/ |
 ---
