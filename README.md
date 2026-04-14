@@ -42,4 +42,5 @@
 | 18| Divide Two Integers| Med | https://leetcode.com/submissions/detail/1976967912/|
 | 19| The Kth Factor of n| Med | https://leetcode.com/submissions/detail/1977350659/|
 | 20| FactorialTrailing Zeroes | Med | https://leetcode.com/submissions/detail/1977375285/|
+| 21| Subsets | Med | http://leetcode.com/submissions/detail/1978473349/ |
 ---
