@@ -46,4 +46,7 @@
 | 21| Subsets | Med | http://leetcode.com/submissions/detail/1978473349/ |
 | 22| Subsets II | Med | https://leetcode.com/submissions/detail/1978493041/ |
 | 23| Permutations | Med | https://leetcode.com/submissions/detail/1978493041/ |
+| 24| Longest Palindromic String | Med |https://leetcode.com/submissions/detail/1979456289/|
+| 25| Super Pow | Med | https://leetcode.com/submissions/detail/1983236324/ |
+
 ---
