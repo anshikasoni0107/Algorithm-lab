@@ -48,5 +48,5 @@
 | 23| Permutations | Med | https://leetcode.com/submissions/detail/1978493041/ |
 | 24| Longest Palindromic String | Med |https://leetcode.com/submissions/detail/1979456289/|
 | 25| Super Pow | Med | https://leetcode.com/submissions/detail/1983236324/ |
-
+| 26| Combination Sum | Med | https://leetcode.com/submissions/detail/1984731165/ |
 ---
