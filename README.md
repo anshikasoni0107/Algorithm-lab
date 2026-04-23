@@ -52,4 +52,5 @@
 | 27| Combination Sum II | Med |https://leetcode.com/submissions/detail/1985581216/ |
 | 28| Generate Parenthses | Med | https://leetcode.com/submissions/detail/1985588581/ |
 | 29| Letter Combinations of Phone Numbers | Med | https://leetcode.com/submissions/detail/1986412653/ |
+| 30| Palindrome Partitioning | Med | https://leetcode.com/submissions/detail/1986417034/|
 ---
