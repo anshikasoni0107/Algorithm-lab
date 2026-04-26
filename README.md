@@ -62,5 +62,5 @@
 | 37| Sort Colors | Med |https://leetcode.com/submissions/detail/1988781565/|
 | 38| Maximum Points You Can Obtain From Cards | Med |https://leetcode.com/submissions/detail/1988843079/|
 | 39| Minimum size subarray Sum | Med |https://leetcode.com/submissions/detail/1988866622/|
-
+| 40| Longest Repeating Character Replacement | Med |https://leetcode.com/submissions/detail/1988870278/|
 ---
