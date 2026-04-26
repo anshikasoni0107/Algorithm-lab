@@ -59,5 +59,6 @@
 | 34| Minimize Maximum Pair Sum in Array | Med | https://leetcode.com/submissions/detail/1988616546/|
 | 35| Boats to Save People | Med |https://leetcode.com/submissions/detail/1988660164/|
 | 36| Two Sum II - Input Array Is Sorted | Med |https://leetcode.com/submissions/detail/1988756018/|
+| 37| Sort Colors | Med |https://leetcode.com/submissions/detail/1988781565/|
 
 ---
