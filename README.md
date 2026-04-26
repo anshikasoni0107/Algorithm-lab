@@ -60,5 +60,6 @@
 | 35| Boats to Save People | Med |https://leetcode.com/submissions/detail/1988660164/|
 | 36| Two Sum II - Input Array Is Sorted | Med |https://leetcode.com/submissions/detail/1988756018/|
 | 37| Sort Colors | Med |https://leetcode.com/submissions/detail/1988781565/|
+| 38| Maximum Points You Can Obtain From Cards | Med |https://leetcode.com/submissions/detail/1988843079/|
 
 ---
