@@ -53,4 +53,10 @@
 | 28| Generate Parenthses | Med | https://leetcode.com/submissions/detail/1985588581/ |
 | 29| Letter Combinations of Phone Numbers | Med | https://leetcode.com/submissions/detail/1986412653/ |
 | 30| Palindrome Partitioning | Med | https://leetcode.com/submissions/detail/1986417034/|
+| 31| 3Sum | Med | https://leetcode.com/submissions/detail/1987236470/ |
+| 32| Word Search | Med | https://leetcode.com/submissions/detail/1988002429/|
+| 33| Daily Temperatures | Med | https://leetcode.com/submissions/detail/1988575891/|
+| 34| Minimize Maximum Pair Sum in Array | Med | https://leetcode.com/submissions/detail/1988616546/|
+| 35| Boats to Save People | Med |https://leetcode.com/submissions/detail/1988660164/|
+
 ---
