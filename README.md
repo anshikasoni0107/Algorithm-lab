@@ -66,4 +66,5 @@
 | 40| Longest Repeating Character Replacement | Med |https://leetcode.com/submissions/detail/1988870278/|
 | 41| Merge Intervals | Med |https://leetcode.com/submissions/detail/1989096425/|
 | 42| Insert Intervals | Med |https://leetcode.com/submissions/detail/1989109701/|
+| 43| Non-Overlapping Intervals | Med |https://leetcode.com/submissions/detail/1989116191/|
 ---
