@@ -67,4 +67,6 @@
 | 41| Merge Intervals | Med |https://leetcode.com/submissions/detail/1989096425/|
 | 42| Insert Intervals | Med |https://leetcode.com/submissions/detail/1989109701/|
 | 43| Non-Overlapping Intervals | Med |https://leetcode.com/submissions/detail/1989116191/|
+| 44| Remove Covered Intervals | Med |https://leetcode.com/submissions/detail/1989328094/|
+| 45| Minimum Number of Arrows to Burst Balloons | Med |https://leetcode.com/submissions/detail/1989339442/|
 ---
