@@ -69,4 +69,8 @@
 | 43| Non-Overlapping Intervals | Med |https://leetcode.com/submissions/detail/1989116191/|
 | 44| Remove Covered Intervals | Med |https://leetcode.com/submissions/detail/1989328094/|
 | 45| Minimum Number of Arrows to Burst Balloons | Med |https://leetcode.com/submissions/detail/1989339442/|
+| 46| Squares of a Sorted Array | Med |https://leetcode.com/submissions/detail/1990457296/|
+| 47| Minimum Number of People to Teach | Med |https://leetcode.com/submissions/detail/1990461864/|
+| 48| Fruits into Baskets | Med |https://leetcode.com/submissions/detail/1991248100/|
+| 49| Car Pooling | Med |https://leetcode.com/submissions/detail/1991270484/|
 ---
