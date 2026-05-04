@@ -84,5 +84,5 @@
 | 58| Maximum Product Subarray | Med |https://leetcode.com/submissions/detail/1994335378/|
 | 59| Perfect Squares | Med |https://leetcode.com/submissions/detail/1994377425/|
 | 60| Set Matrix Zeroes | Med |https://leetcode.com/submissions/detail/1994569109//|
-
+| 61| Rotate Image | Med |https://leetcode.com/submissions/detail/1994598348/|
 ---
