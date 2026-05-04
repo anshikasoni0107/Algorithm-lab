@@ -85,4 +85,5 @@
 | 59| Perfect Squares | Med |https://leetcode.com/submissions/detail/1994377425/|
 | 60| Set Matrix Zeroes | Med |https://leetcode.com/submissions/detail/1994569109//|
 | 61| Rotate Image | Med |https://leetcode.com/submissions/detail/1994598348/|
+| 62| Find Peak Element | Med |https://leetcode.com/submissions/detail/1994626520/|
 ---
