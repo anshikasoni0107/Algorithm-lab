@@ -69,8 +69,20 @@
 | 43| Non-Overlapping Intervals | Med |https://leetcode.com/submissions/detail/1989116191/|
 | 44| Remove Covered Intervals | Med |https://leetcode.com/submissions/detail/1989328094/|
 | 45| Minimum Number of Arrows to Burst Balloons | Med |https://leetcode.com/submissions/detail/1989339442/|
-| 46| Squares of a Sorted Array | Med |https://leetcode.com/submissions/detail/1990457296/|
+| 46| Squares of a Sorted Array | Easy |https://leetcode.com/submissions/detail/1990457296/|
 | 47| Minimum Number of People to Teach | Med |https://leetcode.com/submissions/detail/1990461864/|
 | 48| Fruits into Baskets | Med |https://leetcode.com/submissions/detail/1991248100/|
-| 49| Car Pooling | Med |https://leetcode.com/submissions/detail/1991270484/|
+| 49| Car Pooling | Med |https://leetcode.com/submissions/detail/1991270484/ |
+| 50| Keys and Rooms | Med |https://leetcode.com/submissions/detail/1991622681/|
+| 51| Reverse Integer | Med |https://leetcode.com/submissions/detail/1992007198/|
+| 52| Container With Most Water | Med |https://leetcode.com/submissions/detail/1992518014/|
+| 53| Next Permutation | Med |https://leetcode.com/submissions/detail/1992539833/|
+| 54| 3Sum Closest | Med |https://leetcode.com/submissions/detail/1993500353/|
+| 55| 4Sum | Med |http://leetcode.com/submissions/detail/1993502444/|
+| 56| Find First and Last Position of Element in Sorted Array | Med |https://leetcode.com/submissions/detail/1994227956/|
+| 57| Subarray Sum Equals K | Med |https://leetcode.com/submissions/detail/1994286387/|
+| 58| Maximum Product Subarray | Med |https://leetcode.com/submissions/detail/1994335378/|
+| 59| Perfect Squares | Med |https://leetcode.com/submissions/detail/1994377425/|
+| 60| Set Matrix Zeroes | Med |https://leetcode.com/submissions/detail/1994569109//|
+
 ---
